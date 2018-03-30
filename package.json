@@ -1,0 +1,26 @@
+{
+  "name": "firebase-learn",
+  "version": "1.0.0",
+  "description": "Simple Firebase App to get hang of google firebase",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alimirayman/firebase-learn.git"
+  },
+  "keywords": [
+    "firbase",
+    "learn"
+  ],
+  "author": "Mir Ayman Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alimirayman/firebase-learn/issues"
+  },
+  "homepage": "https://github.com/alimirayman/firebase-learn#readme",
+  "dependencies": {
+    "firebase": "^4.12.1"
+  }
+}
